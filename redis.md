@@ -7,3 +7,6 @@ Creating a new branch is quick and simple.
 add a line。
 
 test dev branch.
+
+stash.
+
